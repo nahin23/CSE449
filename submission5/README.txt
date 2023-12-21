@@ -1,8 +1,9 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
+https://www.overleaf.com/read/zbqcrswvvjrt#96a2b2
 
-Link to unlisted YouTube video:
+Link to unlisted YouTube video: https://youtu.be/2_O0_nuj_5c
 
-Public link to the slide (Anyone on the internet can view without login):
+Public link to the slide (Anyone on the internet can view without login): https://docs.google.com/presentation/d/1EeX7dfzFqNGGHvCKoHy3fxWTYq-E_WCWoTPhwrRq0kE/edit#slide=id.p
 
 Project title: Hybridizing High Performance Computing, Distributed Systems, and Neural Networks for Optimal Investment Portfolio Management
 
